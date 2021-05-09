@@ -1,9 +1,12 @@
 ## Hi there, I'm [Saurav Maheshkar](https://sauravvmaheshkar.gitbook.io/saurav-maheshkar/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<center>
 
-![Banner Image](https://github.com/SauravMaheshkar/SauravMaheshkar/blob/main/Header.png)
+<img src="https://github.com/SauravMaheshkar/SauravMaheshkar/blob/main/Header.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SauravMaheshkar&label=Views&color=blue&style=plastic" alt="SauravMaheshkar" /> </p>
+
+</center>
 
 Hi 👋🏻, I’m a senior high school student from New Delhi, India and I want to pursue deep learning in my higher education. I spent the last 2 years studying Machine Learning having completed multiple specialisations from deeplearning.ai, Google, IBM, Imperial College London, the OpenMined Udacity Course and many other courses.
 
