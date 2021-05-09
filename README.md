@@ -4,7 +4,7 @@
 
 <img src="https://github.com/SauravMaheshkar/SauravMaheshkar/blob/main/Header.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SauravMaheshkar&label=Views&color=blue&style=plastic" alt="SauravMaheshkar" /> </p>
+<img src="https://komarev.com/ghpvc/?username=SauravMaheshkar&label=Views&color=blue&style=plastic" alt="SauravMaheshkar" />
 
 </center>
 
