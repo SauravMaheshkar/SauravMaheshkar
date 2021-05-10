@@ -2,9 +2,9 @@
 
 <center>
 
-<img src="https://github.com/SauravMaheshkar/SauravMaheshkar/blob/main/Header.png">
+<a><img src="https://github.com/SauravMaheshkar/SauravMaheshkar/blob/main/Header.png"></a>
 
-<img src="https://komarev.com/ghpvc/?username=SauravMaheshkar&label=Views&color=blue&style=plastic" alt="SauravMaheshkar" />
+<a><img src="https://komarev.com/ghpvc/?username=SauravMaheshkar&label=Views&color=blue&style=plastic" alt="SauravMaheshkar" /></a>
 
 </center>
 
