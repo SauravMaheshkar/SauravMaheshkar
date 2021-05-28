@@ -10,13 +10,13 @@
 
 Hi 👋🏻, I’m a senior high school student from New Delhi, India and I want to pursue deep learning in my higher education. I spent the last 2 years studying Machine Learning having completed multiple specialisations from deeplearning.ai, Google, IBM, Imperial College London, the OpenMined Udacity Course and many other courses.
 
-Before that, I’ve worked as a Front End Developer with 6 months of internship experience in a leading educational startup. I also have a tech firm which I started with a couple of friends and we take industry projects for App and Web development. I’ve also worked a lot with IoT and Robotics having won multiple hackathon’s and represented my projects in the National Science Fair consecutively for 2 years. Two of my projects on Fake News Classification and Regression Analysis of Primary Biliary Cirrhosis are currently being mentored by Intel under the AI 4 Youth program.
+Before that, I’ve worked as a Front-End Developer with 6 months of internship experience in a leading educational startup. I also have a tech firm which I started with a couple of friends and we take industry projects for App and Web development. I’ve also worked a lot with IoT and Robotics having won multiple hackathon’s and represented my projects in the National Science Exhibition consecutively for 2 years. Two of my projects on Fake News Classification and Regression Analysis of Primary Biliary Cirrhosis are currently being mentored by Intel under the AI 4 Youth program.
 
 I'm an incoming freshman at the University of Edinburgh (Bsc Hons Artificial Intelligence and Computer Science)
 
 I’m currently learning about **Attention**, **Self-Supervised Representation Learning**, **Graphical Models** and **Medical Imaging (Prognosis, some regression analysis as well)**.
 
-I’ve worked a lot with Tensorflow, Pytorch, JAX Based ecosystems (Trax, Flax, Objax, …). I’m almost done with Cynthia Dwork’s book The Algorithmic Foundations of Differential Privacy. I’ve been reading some academic papers in Differential Privacy for about 3 months and am interested to learn how to deploy these systems in production.
+I’ve worked a lot with Tensorflow, Pytorch, JAX Based ecosystems (Trax, Flax, Objax, …).
 
 <a href="https://twitter.com/MaheshkarSaurav">
   <img alt="Twitter" src="https://img.shields.io/badge/MaheshkarSaurav%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> 
