@@ -52,14 +52,26 @@ I’ve worked a lot with Tensorflow, Pytorch, JAX Based ecosystems (Trax, Flax, 
 - 📫 How to reach me: My Social Handles are linked above 👆🏻
 - 📃 My [Newsletter](https://sauravmaheshkar.substack.com/welcome)
 - 😄 Pronouns: He/His
+  
+<div align="center">
 
-<a href="https://github.com/SauravMaheshkar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauravMaheshkar&theme=dark&hide_langs_below=1" />
-</a>
+
+
 <a href="https://github.com/SauravMaheshkar">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SauravMaheshkar&show_icons=true&theme=dark&line_height=27" alt="Saurav's github stats"/>
 </a>
+  
+<br>
+<br>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=sauravmaheshkar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sauravmaheshkar&theme=dark)](https://git.io/streak-stats)
 
+</div>
+  
+  
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
