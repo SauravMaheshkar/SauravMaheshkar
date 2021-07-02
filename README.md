@@ -40,6 +40,8 @@ I’ve worked a lot with Tensorflow, Pytorch, JAX Based ecosystems (Trax, Flax, 
 <br/>
 <br/>
 
+![](https://github.com/SauravMaheshkar/SauravMaheshkar/blob/output/github-contribution-grid-snake.svg?raw=true)
+
 ## 🛠  Technologies and Tools
 
 <p align="left">  
