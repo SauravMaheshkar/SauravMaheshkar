@@ -49,23 +49,22 @@ I’ve worked a lot with Tensorflow, Pytorch, JAX Based ecosystems (Trax, Flax, 
 - 📫 How to reach me: My Social Handles are linked above 👆🏻
 - 📃 My [Newsletter](https://sauravmaheshkar.substack.com/welcome)
 - 😄 Pronouns: He/His
-  
-<div align="center">
 
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
 
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SauravMaheshkar&theme=dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauravMaheshkar&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+  
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
 
-<a href="https://github.com/SauravMaheshkar">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SauravMaheshkar&show_icons=true&theme=dark&line_height=27" alt="Saurav's github stats"/>
-</a>
-  
-<br>
-<br>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=sauravmaheshkar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-  
-  
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SauravMaheshkar&theme=dark&hide_border=true" />
+</details>
+    
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
