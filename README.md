@@ -70,3 +70,6 @@ I’ve worked a lot with Tensorflow, Pytorch, JAX Based ecosystems (Trax, Flax, 
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="SauravMaheshkar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SauravMaheshkar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
