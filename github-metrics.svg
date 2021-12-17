@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="835" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="785" class="columns">
     <defs>
         <style/>
     </defs>
@@ -1427,11 +1427,11 @@
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
-            60 Issues opened
+            62 Issues opened
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
-            134 issue comments
+            137 issue comments
           </div>
                     </section>
                     <section>
@@ -2663,10 +2663,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-8.5, 10.872340425531915)">
+                            <g transform="translate(-8.5, 10.617021276595745)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.127659574468085 0,1.127659574468085 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.127659574468085 1.7,2.127659574468085 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.382978723404255 0,1.3829787234042552 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3829787234042552 1.7,2.382978723404255 z"/>
                             </g>
                         </g>
                     </g>
@@ -2683,21 +2683,32 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">SauravMaheshkar/Personal-Notes</span>
+                      Commented on <span class="issue">#132 LICENSE.rst -&gt; LICENSE</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#7a0a36f</span>
-                                        <span class="message">Automated sync:  M "Daily Notes/2021/December/2021-12-15.md"
- M "Daily Notes/2021/December/December 2021.md"
-?? "Daily Notes/2021/December/2021-12-16.md"
-?? "Daily Notes/2021/December/2021-12-17.md"</span>
-                                    </div>
+                                    <div>opened by wd15 in <span class="repo">usnistgov/jarvis</span></div>
+                                    <div class="comment">@wd15 Can I work on this ? I'd love to contribute to the repository and this seems like a "good first issue'
+</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                      Opened <span class="issue">#1 [Feature Request] Upload library to a package index</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">lanl/hippynn</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2708,12 +2719,12 @@
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                      Commented on <span class="issue">#2 Issues with `requirements.txt`</span>
+                      Commented on <span class="issue">#274 Warning spam from pybnf dependencies</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by SauravMaheshkar in <span class="repo">crisbodnar/ndp</span></div>
-                                    <div class="comment">Exactly, I don't see the point of having fixed version requirements for all these packages. All the code should still work with the latest versions.
+                                    <div>opened by emitra17 in <span class="repo">lanl/PyBNF</span></div>
+                                    <div class="comment">@emitra17 can I take this up ? I'd love to contribute to the repository and this seems like a good place to start.
 </div>
                                 </div>
                             </section>
@@ -2725,12 +2736,13 @@
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                      Commented on <span class="issue">#33 Fix example and image link in `README`</span>
+                      Commented on <span class="issue">#113 Add pylint docstrings to precommit hook</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by SauravMaheshkar in <span class="repo">nasa/SMCPy</span></div>
-                                    <div class="comment">Request for Review @peleser 
+                                    <div>opened by Michael-T-McCann in <span class="repo">lanl/scico</span></div>
+                                    <div class="comment">@bwohlberg Can I take this up ? I'd love to contribute to the repository and this seems like a nice "good first issue". 
+I'll make changes to the <code>.pre-commit-config.yaml</code>, the dev requirements and the docs. 
 </div>
                                 </div>
                             </section>
@@ -2739,89 +2751,15 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 13 commits in <span class="repo">SauravMaheshkar/deepchem</span>
+                      Opened <span class="issue">#2 Request for Dockerfile</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#8a9efc3</span>
-                                        <span class="message">Merge pull request #2724 from arunppsg/issue-2617
-
-removed Model being an sklearn BaseEstimator</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f8811ff</span>
-                                        <span class="message">Merge pull request #2790 from SauravMaheshkar/add-precommit
-
-Add precommit</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ec8a3e7</span>
-                                        <span class="message">removed Model being an sklearn BaseEstimator
-
-DeepChem is currently not using the get_params and set_params
-provided by BaseEstimator class and hence the requirement of
-Model to be a type of BaseEstimator is not wanted.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8baa586</span>
-                                        <span class="message">Merge pull request #2789 from arunppsg/tf
-
-updated tensorflow to 2.7</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#1f43aa0</span>
-                                        <span class="message">Update pre-commit documentation</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a2424d9</span>
-                                        <span class="message">Add documentation for pre-commit</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#928f34e</span>
-                                        <span class="message">updated tensorflow dependencies in setup.py</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#51534d3</span>
-                                        <span class="message">remove pre-commit from env files apart from common</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#996d526</span>
-                                        <span class="message">Remove pytest from pre-commit</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5ea8484</span>
-                                        <span class="message">change yapf version to v0.22.0</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#17a4565</span>
-                                        <span class="message">Add pre-commit to environments</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#23baf9c</span>
-                                        <span class="message">Add precommit config</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b18dd20</span>
-                                        <span class="message">updated tensorflow to 2.7</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                      Deleted
-                      branch  <span class="code">add-precommit</span> in  <span class="repo">SauravMaheshkar/deepchem</span>
-                    </div>
+                                    <div>opened  in <span class="repo">larskuenkel/DeepPulsarNet</span></div>
                                 </div>
                             </section>
                         </div>
@@ -3179,7 +3117,7 @@ updated tensorflow to 2.7</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Dec 2021, 20:47:14 (timezone Asia/Calcutta) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 17 Dec 2021, 21:54:47 (timezone Asia/Calcutta) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
