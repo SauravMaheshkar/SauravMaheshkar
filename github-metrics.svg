@@ -56,7 +56,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            251 issue comments
+                            252 issue comments
                         </div>
                     </section>
                     <section>
@@ -1390,6 +1390,56 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">SauravMaheshkar/svag</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#ffacc5f</span>
+                                        <span class="message">Bump jupyter-client from 6.1.7 to 7.1.0
+
+Bumps [jupyter-client](https://github.com/jupyter/jupyter_client) from 6.1.7 to 7.1.0.
+- [Release notes](https://github.com/jupyter/jupyter_client/releases)
+- [Changelog](https://github.com/jupyter/jupyter_client/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/jupyter/jupyter_client/commits/v7.1.0)
+
+---
+updated-dependencies:
+- dependency-name: jupyter-client
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/pip/jupyter-client-7.1.0</span>
+                                        in
+                                        <span class="repo">SauravMaheshkar/svag</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">SauravMaheshkar/feedback-prize</span>
                                     </div>
                                 </div>
@@ -1438,63 +1488,6 @@
                                         <span class="code">main</span>
                                         in
                                         <span class="repo">SauravMaheshkar/feedback-prize</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      repository
-                                        <span class="repo">SauravMaheshkar/feedback-prize</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">SauravMaheshkar/infographics</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#d863c89</span>
-                                        <span class="message">[ImgBot] Optimize images
-
-*Total -- 1,471.12kb -&gt; 1,118.79kb (23.95%)
-
-/LinearReg/LinearRegression.png -- 47.70kb -&gt; 31.28kb (34.43%)
-/pruning/Methods of Pruning.png -- 114.37kb -&gt; 77.00kb (32.67%)
-/DecisionTrees/DecisionTreesBasic.png -- 66.77kb -&gt; 45.13kb (32.41%)
-/MLPMixer/Mixer Block.png -- 80.33kb -&gt; 55.57kb (30.81%)
-/crossval/Train Test Split.png -- 21.83kb -&gt; 15.36kb (29.62%)
-/ResMLP/ResMLP Banner.png -- 59.62kb -&gt; 42.11kb (29.37%)
-/ResMLP/ResMLP  CrossChannel SubLayer.png -- 44.16kb -&gt; 31.28kb (29.17%)
-/ViT/ViT Banner.png -- 53.07kb -&gt; 37.96kb (28.48%)
-/ResMLP/ResMLP  CrossPatch SubLayer.png -- 44.26kb -&gt; 31.71kb (28.36%)
-/LinearReg/One-Hot Encoding.png -- 36.90kb -&gt; 27.06kb (26.67%)
-/SimCLR/SimCLR Framework.png -- 58.54kb -&gt; 42.99kb (26.55%)
-/crossval/K-Fold Cross Validation.png -- 42.99kb -&gt; 31.60kb (26.5%)
-/FNet/FF MLP-Mixer vs FNet.png -- 49.03kb -&gt; 36.12kb (26.33%)
-/rtdl/Transformer Layer.png -- 45.33kb -&gt; 34.03kb (24.93%)
-/SangerSequencing/Sanger Sequencing.png -- 66.01kb -&gt; 51.56kb (21.9%)
-/wandb/W&amp;B Artifacts.png -- 383.15kb -&gt; 303.10kb (20.89%)
-/rtdl/Feature Tokenizer.png -- 56.92kb -&gt; 48.96kb (13.99%)
-/pruning/Pruning.png -- 200.13kb -&gt; 175.96kb (12.08%)
-
-Signed-off-by: ImgBotApp &lt;ImgBotHelp@gmail.com&gt;</span>
                                     </div>
                                 </div>
                             </section>
@@ -1820,7 +1813,7 @@ Signed-off-by: ImgBotApp &lt;ImgBotHelp@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jan 2022, 20:47:42 (timezone Asia/Calcutta) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 12 Jan 2022, 21:56:37 (timezone Asia/Calcutta) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
