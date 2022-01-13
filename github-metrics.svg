@@ -56,7 +56,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            260 issue comments
+                            262 issue comments
                         </div>
                     </section>
                     <section>
@@ -1395,33 +1395,17 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/pip/notebook-6.4.7</span>
-                                        in
-                                        <span class="repo">SauravMaheshkar/gnn-lspe</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">SauravMaheshkar/gnn-lspe</span>
+                                        <span class="repo">SauravMaheshkar/benchmarking-gnns</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#d5a9cf0</span>
+                                        <span class="sha">#22dfc6e</span>
                                         <span class="message">Bump notebook from 6.4.6 to 6.4.7
 
 Bumps [notebook](http://jupyter.org) from 6.4.6 to 6.4.7.
@@ -1442,28 +1426,45 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/pip/notebook-6.4.7</span>
+                                        in
+                                        <span class="repo">SauravMaheshkar/benchmarking-gnns</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">SauravMaheshkar/noether-networks</span>
+                                        <span class="repo">SauravMaheshkar/svag</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#12b0934</span>
-                                        <span class="message">Bump tqdm from 4.56.0 to 4.62.3
+                                        <span class="sha">#af46528</span>
+                                        <span class="message">Bump seaborn from 0.11.0 to 0.11.2
 
-Bumps [tqdm](https://github.com/tqdm/tqdm) from 4.56.0 to 4.62.3.
-- [Release notes](https://github.com/tqdm/tqdm/releases)
-- [Commits](https://github.com/tqdm/tqdm/compare/v4.56.0...v4.62.3)
+Bumps [seaborn](https://github.com/mwaskom/seaborn) from 0.11.0 to 0.11.2.
+- [Release notes](https://github.com/mwaskom/seaborn/releases)
+- [Changelog](https://github.com/mwaskom/seaborn/blob/master/doc/whatsnew.rst)
+- [Commits](https://github.com/mwaskom/seaborn/compare/v0.11.0...v0.11.2)
 
 ---
 updated-dependencies:
-- dependency-name: tqdm
+- dependency-name: seaborn
   dependency-type: direct:production
-  update-type: version-update:semver-minor
+  update-type: version-update:semver-patch
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
@@ -1480,9 +1481,9 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dependabot/pip/tqdm-4.62.3</span>
+                                        <span class="code">dependabot/pip/seaborn-0.11.2</span>
                                         in
-                                        <span class="repo">SauravMaheshkar/noether-networks</span>
+                                        <span class="repo">SauravMaheshkar/svag</span>
                                     </div>
                                 </div>
                             </section>
@@ -1495,24 +1496,24 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">SauravMaheshkar/noether-networks</span>
+                                        <span class="repo">SauravMaheshkar/svag</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#31cdec4</span>
-                                        <span class="message">Bump imageio-ffmpeg from 0.4.3 to 0.4.5
+                                        <span class="sha">#a9967ef</span>
+                                        <span class="message">Bump matplotlib from 3.3.3 to 3.5.1
 
-Bumps [imageio-ffmpeg](https://github.com/imageio/imageio-ffmpeg) from 0.4.3 to 0.4.5.
-- [Release notes](https://github.com/imageio/imageio-ffmpeg/releases)
-- [Commits](https://github.com/imageio/imageio-ffmpeg/compare/v0.4.3...v0.4.5)
+Bumps [matplotlib](https://github.com/matplotlib/matplotlib) from 3.3.3 to 3.5.1.
+- [Release notes](https://github.com/matplotlib/matplotlib/releases)
+- [Commits](https://github.com/matplotlib/matplotlib/compare/v3.3.3...v3.5.1)
 
 ---
 updated-dependencies:
-- dependency-name: imageio-ffmpeg
+- dependency-name: matplotlib
   dependency-type: direct:production
-  update-type: version-update:semver-patch
+  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
@@ -1841,7 +1842,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jan 2022, 19:45:54 (timezone Asia/Calcutta) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 13 Jan 2022, 20:47:46 (timezone Asia/Calcutta) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
