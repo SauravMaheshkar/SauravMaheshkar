@@ -32,7 +32,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1685 Commits
+                            1686 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -188,14 +188,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="234.55971899617674" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="234.55971899617674" y="0" width="98.08842753807156" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="332.64814653424827" y="0" width="56.310612289749194" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="388.95875882399747" y="0" width="53.371894312855474" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="442.33065313685296" y="0" width="10.221892986650802" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="452.55254612350376" y="0" width="5.0285891834747325" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="457.58113530697847" y="0" width="1.5412582272053836" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="459.12239353418386" y="0" width="0.8776064658161273" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="234.5539420462834" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="234.5539420462834" y="0" width="98.08601172714958" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="332.639953773433" y="0" width="56.3092254208228" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="388.94917919425575" y="0" width="53.370579821345686" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="442.31975901560145" y="0" width="10.232970530563529" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="452.552729546165" y="0" width="5.0284653348110675" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="457.58119488097606" y="0" width="1.5412202676972917" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="459.1224151486734" y="0" width="0.8775848513266457" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1372,6 +1372,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">SauravMaheshkar/NeRF</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7d23c75</div>
+                                        <div class="message">Fix Docker</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 5 commits in
                                         <span class="repo">SauravMaheshkar/NeRF</span>
                                     </div>
@@ -1459,42 +1479,6 @@
                                     <div class="commit">
                                         <div class="sha">#c45e94c</div>
                                         <div class="message">Bump severity to critical</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">SauravMaheshkar/NeRF</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e37a0eb</div>
-                                        <div class="message">Merge Conflicts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#419e81a</div>
-                                        <div class="message">Improve README</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7a66546</div>
-                                        <div class="message">Update default values</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0381a6c</div>
-                                        <div class="message">Update Setup methods</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01d6699</div>
-                                        <div class="message">Add .env to ignore files</div>
                                     </div>
                                 </div>
                             </section>
@@ -1820,7 +1804,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jan 2022, 01:45:48 (timezone Asia/Calcutta) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 31 Jan 2022, 02:42:38 (timezone Asia/Calcutta) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
