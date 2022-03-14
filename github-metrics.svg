@@ -32,7 +32,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1754 Commits
+                            1755 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -44,7 +44,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            80 Pull requests opened
+                            81 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -57,7 +57,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            313 issue comments
+                            314 issue comments
                         </div>
                     </section>
                     <section>
@@ -140,7 +140,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.21m added, 45.9k removed
+                                    1.20m added, 45.8k removed
                                 </div>
                             </section>
                             <section>
@@ -188,14 +188,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="242.37914132629726" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="242.37914132629726" y="0" width="94.1452131591413" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="336.5243544854386" y="0" width="54.04689146517872" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="390.5712459506173" y="0" width="51.226311736322565" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="441.79755768693985" y="0" width="11.054380606968712" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="452.8519382939086" y="0" width="4.826436843268092" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="457.67837513717666" y="0" width="1.4792987101073867" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="459.157673847284" y="0" width="0.842326152715939" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="242.40602980530798" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="242.40602980530798" y="0" width="94.15565721622534" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="336.5616870215333" y="0" width="54.05288719030095" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="390.6145742118343" y="0" width="51.231994558699036" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="441.8465687705333" y="0" width="11.004576548756658" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="452.85114531928997" y="0" width="4.826972267005656" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="457.6781175862956" y="0" width="1.479462817018978" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="459.1575804033146" y="0" width="0.8424195966853892" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1319,76 +1319,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 4 commits in
                                         <span class="repo">SauravMaheshkar/VICReg</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dependabot/pip/torch-1.11.0</span></div>
+                                    <div>on branch <span class="code">dependabot/pip/pytest-7.1.0</span></div>
                                     <div class="commit">
-                                        <div class="sha">#96d04a6</div>
-                                        <div class="message">set `default-timeout` in `Dockerfile`</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">SauravMaheshkar/VICReg</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dependabot/pip/torch-1.11.0</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6809aa9</div>
-                                        <div class="message">Bump `torchvision` version</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">SauravMaheshkar/meta-pretraining</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a06ffad</div>
-                                        <div class="message">Bump torch from 1.10.0 to 1.11.0 (#27)
-
-* Bump torch from 1.10.0 to 1.11.0
-
-Bumps [torch](https://github.com/pytorch/pytorch) from 1.10.0 to 1.11.0.
-- [Release notes](https://github.com/pytorch/pytorch/releases)
-- [Changelog](https://github.com/pytorch/pytorch/blob/master/RELEASE.md)
-- [Commits](https://github.com/pytorch/pytorch/compare/v1.10.0...v1.11.0)
-
----
-updated-dependencies:
-- dependency-name: torch
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-* Bump `torchvision` version
-
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
-Co-authored-by: Saurav Maheshkar &lt;sauravvmaheshkar@gmail.com&gt;</div>
+                                        <div class="sha">#789b027</div>
+                                        <div class="message">Merge branch 'main' into dependabot/pip/pytest-7.1.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -1402,9 +1341,46 @@ Co-authored-by: Saurav Maheshkar &lt;sauravvmaheshkar@gmail.com&gt;</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dependabot/pip/torch-1.11.0</span>
+                                        <span class="code">dependabot/pip/numpy-1.22.3</span>
                                         in
-                                        <span class="repo">SauravMaheshkar/meta-pretraining</span>
+                                        <span class="repo">SauravMaheshkar/VICReg</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">SauravMaheshkar/VICReg</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4f73d16</div>
+                                        <div class="message">Bump numpy from 1.22.2 to 1.22.3 (#3)
+
+Bumps [numpy](https://github.com/numpy/numpy) from 1.22.2 to 1.22.3.
+- [Release notes](https://github.com/numpy/numpy/releases)
+- [Changelog](https://github.com/numpy/numpy/blob/main/doc/HOWTO_RELEASE.rst.txt)
+- [Commits](https://github.com/numpy/numpy/compare/v1.22.2...v1.22.3)
+
+---
+updated-dependencies:
+- dependency-name: numpy
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Co-authored-by: Saurav Maheshkar &lt;sauravvmaheshkar@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1417,14 +1393,47 @@ Co-authored-by: Saurav Maheshkar &lt;sauravvmaheshkar@gmail.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 3 commits in
-                                        <span class="repo">SauravMaheshkar/meta-pretraining</span>
+                                        <span class="repo">SauravMaheshkar/VICReg</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dependabot/pip/torch-1.11.0</span></div>
+                                    <div>on branch <span class="code">dependabot/pip/numpy-1.22.3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c463c50</div>
-                                        <div class="message">Merge branch 'main' into dependabot/pip/torch-1.11.0</div>
+                                        <div class="sha">#ca8e6ab</div>
+                                        <div class="message">Merge branch 'main' into dependabot/pip/numpy-1.22.3</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">SauravMaheshkar/VICReg</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3d36bca</div>
+                                        <div class="message">Bump ubuntu from impish-20220128 to impish-20220301 (#2)
+
+Bumps ubuntu from impish-20220128 to impish-20220301.
+
+---
+updated-dependencies:
+- dependency-name: ubuntu
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Co-authored-by: Saurav Maheshkar &lt;sauravvmaheshkar@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1750,7 +1759,7 @@ Co-authored-by: Saurav Maheshkar &lt;sauravvmaheshkar@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Mar 2022, 14:46:28 (timezone Asia/Calcutta) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 14 Mar 2022, 15:48:33 (timezone Asia/Calcutta) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
