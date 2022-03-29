@@ -1321,38 +1321,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">SauravMaheshkar/noether-networks</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dependabot/docker/ubuntu-impish-20220316</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ed6c55a</div>
-                                        <div class="message">Merge branch 'main' into dependabot/docker/ubuntu-impish-20220316</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">SauravMaheshkar/noether-networks</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dependabot/pip/kiwisolver-1.4.1</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#637282e</div>
-                                        <div class="message">Merge branch 'main' into dependabot/pip/kiwisolver-1.4.1</div>
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/pip/black-22.3.0</span>
+                                        in
+                                        <span class="repo">SauravMaheshkar/Vaccine-Degradation</span>
                                     </div>
                                 </div>
                             </section>
@@ -1365,22 +1341,23 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">SauravMaheshkar/noether-networks</span>
+                                        <span class="repo">SauravMaheshkar/Vaccine-Degradation</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ceb8422</div>
-                                        <div class="message">Bump ipython from 8.1.1 to 8.2.0
+                                        <div class="sha">#63b8719</div>
+                                        <div class="message">Bump black from 22.1.0 to 22.3.0
 
-Bumps [ipython](https://github.com/ipython/ipython) from 8.1.1 to 8.2.0.
-- [Release notes](https://github.com/ipython/ipython/releases)
-- [Commits](https://github.com/ipython/ipython/compare/8.1.1...8.2.0)
+Bumps [black](https://github.com/psf/black) from 22.1.0 to 22.3.0.
+- [Release notes](https://github.com/psf/black/releases)
+- [Changelog](https://github.com/psf/black/blob/main/CHANGES.md)
+- [Commits](https://github.com/psf/black/compare/22.1.0...22.3.0)
 
 ---
 updated-dependencies:
-- dependency-name: ipython
+- dependency-name: black
   dependency-type: direct:production
   update-type: version-update:semver-minor
 ...
@@ -1399,9 +1376,9 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dependabot/pip/ipython-8.2.0</span>
+                                        <span class="code">dependabot/pip/black-22.3.0</span>
                                         in
-                                        <span class="repo">SauravMaheshkar/noether-networks</span>
+                                        <span class="repo">SauravMaheshkar/SSL-Series</span>
                                     </div>
                                 </div>
                             </section>
@@ -1413,15 +1390,49 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">SauravMaheshkar/svag</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">SauravMaheshkar/SSL-Series</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dependabot/pip/setuptools-61.2.0</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d49f72c</div>
-                                        <div class="message">Merge branch 'main' into dependabot/pip/setuptools-61.2.0</div>
+                                        <div class="sha">#43b877a</div>
+                                        <div class="message">Bump black from 22.1.0 to 22.3.0
+
+Bumps [black](https://github.com/psf/black) from 22.1.0 to 22.3.0.
+- [Release notes](https://github.com/psf/black/releases)
+- [Changelog](https://github.com/psf/black/blob/main/CHANGES.md)
+- [Commits](https://github.com/psf/black/compare/22.1.0...22.3.0)
+
+---
+updated-dependencies:
+- dependency-name: black
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">SauravMaheshkar/noether-networks</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dependabot/docker/ubuntu-impish-20220316</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ed6c55a</div>
+                                        <div class="message">Merge branch 'main' into dependabot/docker/ubuntu-impish-20220316</div>
                                     </div>
                                 </div>
                             </section>
@@ -1747,7 +1758,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Mar 2022, 13:50:39 (timezone Asia/Calcutta) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 29 Mar 2022, 14:46:33 (timezone Asia/Calcutta) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
