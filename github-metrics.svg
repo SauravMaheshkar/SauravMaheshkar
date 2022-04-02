@@ -1307,15 +1307,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">SauravMaheshkar/svag</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">SauravMaheshkar/noether-networks</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dependabot/pip/ipykernel-6.11.0</span></div>
+                                    <div>on branch <span class="code">dependabot/pip/kiwisolver-1.4.1</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f456899</div>
-                                        <div class="message">Merge branch 'main' into dependabot/pip/ipykernel-6.11.0</div>
+                                        <div class="sha">#f55e523</div>
+                                        <div class="message">Merge branch 'main' into dependabot/pip/kiwisolver-1.4.1</div>
                                     </div>
                                 </div>
                             </section>
@@ -1328,28 +1328,32 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">SauravMaheshkar/svag</span>
+                                        <span class="repo">SauravMaheshkar/noether-networks</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5cac231</div>
-                                        <div class="message">Bump setuptools from 61.0.0 to 61.2.0 (#92)
+                                        <div class="sha">#1223396</div>
+                                        <div class="message">Bump ubuntu from impish-20220301 to impish-20220316 (#58)
 
-Bumps [setuptools](https://github.com/pypa/setuptools) from 61.0.0 to 61.2.0.
-- [Release notes](https://github.com/pypa/setuptools/releases)
-- [Changelog](https://github.com/pypa/setuptools/blob/main/CHANGES.rst)
-- [Commits](https://github.com/pypa/setuptools/compare/v61.0.0...v61.2.0)
+* Bump ubuntu from impish-20220301 to impish-20220316
+
+Bumps ubuntu from impish-20220301 to impish-20220316.
 
 ---
 updated-dependencies:
-- dependency-name: setuptools
+- dependency-name: ubuntu
   dependency-type: direct:production
-  update-type: version-update:semver-minor
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+* Bump black to `22.3.0`
+
+* Bump black in CI to `22.3.0`
+
+* Lint using black v22.3.0 locally
 
 Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
 Co-authored-by: Saurav Maheshkar &lt;sauravvmaheshkar@gmail.com&gt;</div>
@@ -1366,29 +1370,9 @@ Co-authored-by: Saurav Maheshkar &lt;sauravvmaheshkar@gmail.com&gt;</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dependabot/pip/setuptools-61.2.0</span>
+                                        <span class="code">dependabot/docker/ubuntu-impish-20220316</span>
                                         in
-                                        <span class="repo">SauravMaheshkar/svag</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">SauravMaheshkar/svag</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dependabot/pip/setuptools-61.2.0</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3950b7d</div>
-                                        <div class="message">Merge branch 'main' into dependabot/pip/setuptools-61.2.0</div>
+                                        <span class="repo">SauravMaheshkar/noether-networks</span>
                                     </div>
                                 </div>
                             </section>
@@ -1401,35 +1385,34 @@ Co-authored-by: Saurav Maheshkar &lt;sauravvmaheshkar@gmail.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">SauravMaheshkar/svag</span>
+                                        <span class="repo">SauravMaheshkar/noether-networks</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">dependabot/docker/ubuntu-impish-20220316</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d4f5573</div>
-                                        <div class="message">Bump black from 22.1.0 to 22.3.0 (#93)
-
-* Bump black from 22.1.0 to 22.3.0
-
-Bumps [black](https://github.com/psf/black) from 22.1.0 to 22.3.0.
-- [Release notes](https://github.com/psf/black/releases)
-- [Changelog](https://github.com/psf/black/blob/main/CHANGES.md)
-- [Commits](https://github.com/psf/black/compare/22.1.0...22.3.0)
-
----
-updated-dependencies:
-- dependency-name: black
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-* Bump black to `22.3.0`
-
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
-Co-authored-by: Saurav Maheshkar &lt;sauravvmaheshkar@gmail.com&gt;</div>
+                                        <div class="sha">#4ef6426</div>
+                                        <div class="message">Lint using black v22.3.0 locally</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">SauravMaheshkar/noether-networks</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dependabot/docker/ubuntu-impish-20220316</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8bc1f3b</div>
+                                        <div class="message">Bump black in CI to `22.3.0`</div>
                                     </div>
                                 </div>
                             </section>
@@ -1755,7 +1738,7 @@ Co-authored-by: Saurav Maheshkar &lt;sauravvmaheshkar@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Apr 2022, 21:52:03 (timezone Asia/Calcutta) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 2 Apr 2022, 22:46:32 (timezone Asia/Calcutta) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
