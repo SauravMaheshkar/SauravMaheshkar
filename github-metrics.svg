@@ -1329,15 +1329,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">SauravMaheshkar/UWMGI</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">SauravMaheshkar/svag</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dependabot/pip/rich-12.4.1</span></div>
+                                    <div>on branch <span class="code">dependabot/pip/nbclient-0.6.3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#191c24a</div>
-                                        <div class="message">Merge branch 'main' into dependabot/pip/rich-12.4.1</div>
+                                        <div class="sha">#f46f2e0</div>
+                                        <div class="message">Merge branch 'main' into dependabot/pip/nbclient-0.6.3</div>
                                     </div>
                                 </div>
                             </section>
@@ -1350,23 +1350,23 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">SauravMaheshkar/UWMGI</span>
+                                        <span class="repo">SauravMaheshkar/noether-networks</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#52305d6</div>
-                                        <div class="message">Bump wandb from 0.12.15 to 0.12.16 (#6)
+                                        <div class="sha">#60275ba</div>
+                                        <div class="message">Bump jupyter-client from 7.3.0 to 7.3.1 (#93)
 
-Bumps [wandb](https://github.com/wandb/client) from 0.12.15 to 0.12.16.
-- [Release notes](https://github.com/wandb/client/releases)
-- [Changelog](https://github.com/wandb/client/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/wandb/client/compare/v0.12.15...v0.12.16)
+Bumps [jupyter-client](https://github.com/jupyter/jupyter_client) from 7.3.0 to 7.3.1.
+- [Release notes](https://github.com/jupyter/jupyter_client/releases)
+- [Changelog](https://github.com/jupyter/jupyter_client/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/jupyter/jupyter_client/compare/v7.3.0...v7.3.1)
 
 ---
 updated-dependencies:
-- dependency-name: wandb
+- dependency-name: jupyter-client
   dependency-type: direct:production
   update-type: version-update:semver-patch
 ...
@@ -1374,7 +1374,7 @@ updated-dependencies:
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 
 Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
-Co-authored-by: Saurav Maheshkar &lt;saurav@wandb.com&gt;</div>
+Co-authored-by: Saurav Maheshkar &lt;sauravvmaheshkar@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1388,9 +1388,29 @@ Co-authored-by: Saurav Maheshkar &lt;saurav@wandb.com&gt;</div>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dependabot/pip/wandb-0.12.16</span>
+                                        <span class="code">dependabot/pip/jupyter-client-7.3.1</span>
                                         in
-                                        <span class="repo">SauravMaheshkar/UWMGI</span>
+                                        <span class="repo">SauravMaheshkar/noether-networks</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">SauravMaheshkar/noether-networks</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dependabot/pip/jupyter-client-7.3.1</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2492018</div>
+                                        <div class="message">Merge branch 'main' into dependabot/pip/jupyter-client-7.3.1</div>
                                     </div>
                                 </div>
                             </section>
@@ -1403,27 +1423,28 @@ Co-authored-by: Saurav Maheshkar &lt;saurav@wandb.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">SauravMaheshkar/CheXpert-PL</span>
+                                        <span class="repo">SauravMaheshkar/svag</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4e7ca9d</div>
-                                        <div class="message">Drop to py3.7</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm.061 3.073a4 4 0 10-5.123 0 6.004 6.004 0 00-3.431 5.142.75.75 0 001.498.07 4.5 4.5 0 018.99 0 .75.75 0 101.498-.07 6.005 6.005 0 00-3.432-5.142z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Added manangoel99 as collaborator in
-                                        <span class="repo">SauravMaheshkar/CheXpert-PL</span>
+                                        <div class="sha">#b488c60</div>
+                                        <div class="message">Bump jupyter-client from 7.3.0 to 7.3.1
+
+Bumps [jupyter-client](https://github.com/jupyter/jupyter_client) from 7.3.0 to 7.3.1.
+- [Release notes](https://github.com/jupyter/jupyter_client/releases)
+- [Changelog](https://github.com/jupyter/jupyter_client/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/jupyter/jupyter_client/compare/v7.3.0...v7.3.1)
+
+---
+updated-dependencies:
+- dependency-name: jupyter-client
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1749,7 +1770,7 @@ Co-authored-by: Saurav Maheshkar &lt;saurav@wandb.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 May 2022, 10:07:09 (timezone Asia/Calcutta) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 11 May 2022, 10:56:56 (timezone Asia/Calcutta) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
