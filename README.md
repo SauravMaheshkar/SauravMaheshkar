@@ -1,19 +1,19 @@
 ## Hi there, I'm [Saurav Maheshkar](https://sauravvmaheshkar.gitbook.io/saurav-maheshkar/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 568 Contributions in the Year 2022
+> 🏆 570 Contributions in the Year 2022
  > 
 > 📦 706.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 87 Public Repositories 
+> 📜 88 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
@@ -46,22 +46,20 @@ Sunday       65 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     1 hr 23 mins        ████████████████░░░░░░░░░   65.22% 
-Markdown                 26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.75% 
-Python                   17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+HTML                     58 mins             ██████████████████████░░░   89.78% 
+Python                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.41% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
 
 🔥 Editors: 
-VS Code                  2 hrs 7 mins        █████████████████████████   100.0%
+VS Code                  1 hr 4 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-COMP10120-Labs_k09546sm  1 hr 18 mins        ███████████████░░░░░░░░░░   61.13% 
-COMP16321-Labs_k09546sm  43 mins             ████████░░░░░░░░░░░░░░░░░   34.24% 
-Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.63%
+COMP10120-Labs_k09546sm  58 mins             ██████████████████████░░░   90.59% 
+COMP16321-Labs_k09546sm  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.41%
 
 💻 Operating System: 
-Mac                      2 hrs 7 mins        █████████████████████████   100.0%
+Mac                      1 hr 4 mins         █████████████████████████   100.0%
 
 ```
 
@@ -82,5 +80,5 @@ Shell                    2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SauravMaheshkar/SauravMaheshkar/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/10/2022 19:00:11 UTC
+ Last Updated on 22/10/2022 18:54:47 UTC
 <!--END_SECTION:waka-->
