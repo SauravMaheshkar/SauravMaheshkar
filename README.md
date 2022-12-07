@@ -1,8 +1,10 @@
-## Hi there, I'm [Saurav Maheshkar](https://sauravmaheshkar.github.io/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hi there, My name is [Saurav](https://sauravmaheshkar.github.io/)
 
-<center>
+I am a Computer Science student at the University of Manchester and am interested in Geometric Learning and Self Supervised Learning. Currently, I am working on:
 
-<a><img src="https://github.com/SauravMaheshkar/SauravMaheshkar/blob/main/Header.png"></a>
+* [Benchmarking Self Supervised Learning Methods](https://github.com/SauravMaheshkar/Self-Supervised-Learning)
+* [Self Supervised Learning Methods for Graphs](https://github.com/SauravMaheshkar/SSL-Graphs)
+* Knowledge Distillation Deep Dive (Teacher Size vs Student Size. ViT vs Conv vs MLPs)
+* Generative models for regulatory DNA sequences based on diffusion models
 
-
-</center>
+Feel free to reach out via email at: sauravvmaheshkar [at] gmail [dot] com
