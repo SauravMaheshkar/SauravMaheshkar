@@ -7,7 +7,7 @@ I am a Computer Science student at the University of Manchester and am intereste
 * Knowledge Distillation Deep Dive (Teacher Size vs Student Size. ViT vs Conv vs MLPs)
 * Generative models for regulatory DNA sequences based on diffusion models
 
-Feel free to reach out via email at: sauravvmaheshkar [at] gmail [dot] com
+Feel free to reach out via email at: `sauravvmaheshkar <at> gmail.com`
 
 <details>
 <summary>Github Statistics</summary>
