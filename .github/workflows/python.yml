@@ -1,0 +1,54 @@
+name: "CI (Update README)"
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "**.py"
+      - "requirements.txt"
+  pull_request:
+    branches: [main]
+    paths:
+      - "**.py"
+      - "requirements.txt"
+  release:
+    types: [created]
+  schedule:
+    - cron: "0 0 * * *"
+
+env:
+  GITHUB_ACCESS_TOKEN: ${{ secrets.REPOS_TRACKER }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Python 3.8
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.8"
+          cache: "pip"
+          cache-dependency-path: "tracker/requirements.txt"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip wheel setuptools
+          python -m pip install -r tracker/requirements.txt
+
+      - name: Test with PyTest
+        run: |
+          pytest -v .
+
+      - name: Update README
+        run: |
+          python -m tracker.main
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update README
