@@ -72,7 +72,6 @@
 | [dotfiles](https://github.com/SauravMaheshkar/dotfiles)                                   |
 | [mancityfc](https://github.com/SauravMaheshkar/mancityfc)                                 |
 | [python-template](https://github.com/SauravMaheshkar/python-template)                     |
-| [repos-tracker](https://github.com/SauravMaheshkar/repos-tracker)                         |
 | [SauravMaheshkar](https://github.com/SauravMaheshkar/SauravMaheshkar)                     |
 | [sauravmaheshkar.github.io](https://github.com/SauravMaheshkar/sauravmaheshkar.github.io) |
 
