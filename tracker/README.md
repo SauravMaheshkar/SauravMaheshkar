@@ -85,7 +85,6 @@
 
 | Repository Name                                             |
 |:------------------------------------------------------------|
-| [ci](https://github.com/SauravMaheshkar/ci)                 |
 | [docker-py](https://github.com/SauravMaheshkar/docker-py)   |
 | [flower](https://github.com/SauravMaheshkar/flower)         |
 | [jupyterlab](https://github.com/SauravMaheshkar/jupyterlab) |
