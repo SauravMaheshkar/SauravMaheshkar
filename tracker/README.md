@@ -88,7 +88,6 @@
 | [docker-py](https://github.com/SauravMaheshkar/docker-py)   |
 | [flower](https://github.com/SauravMaheshkar/flower)         |
 | [jupyterlab](https://github.com/SauravMaheshkar/jupyterlab) |
-| [tango](https://github.com/SauravMaheshkar/tango)           |
 
 </details>
 <br>
