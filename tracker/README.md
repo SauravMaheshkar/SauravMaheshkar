@@ -83,11 +83,12 @@
 <summary>tracker-temp</summary>
 <br>
 
-| Repository Name                                             |
-|:------------------------------------------------------------|
-| [docker-py](https://github.com/SauravMaheshkar/docker-py)   |
-| [flower](https://github.com/SauravMaheshkar/flower)         |
-| [jupyterlab](https://github.com/SauravMaheshkar/jupyterlab) |
+| Repository Name                                                           |
+|:--------------------------------------------------------------------------|
+| [docker-py](https://github.com/SauravMaheshkar/docker-py)                 |
+| [flower](https://github.com/SauravMaheshkar/flower)                       |
+| [jupyterlab](https://github.com/SauravMaheshkar/jupyterlab)               |
+| [pytorch_geometric](https://github.com/SauravMaheshkar/pytorch_geometric) |
 
 </details>
 <br>
