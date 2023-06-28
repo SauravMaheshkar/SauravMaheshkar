@@ -83,11 +83,10 @@
 <summary>tracker-temp</summary>
 <br>
 
-| Repository Name                                             |
-|:------------------------------------------------------------|
-| [diffusers](https://github.com/SauravMaheshkar/diffusers)   |
-| [docker-py](https://github.com/SauravMaheshkar/docker-py)   |
-| [jupyterlab](https://github.com/SauravMaheshkar/jupyterlab) |
+| Repository Name                                           |
+|:----------------------------------------------------------|
+| [diffusers](https://github.com/SauravMaheshkar/diffusers) |
+| [docker-py](https://github.com/SauravMaheshkar/docker-py) |
 
 </details>
 <br>
