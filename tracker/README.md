@@ -85,6 +85,7 @@
 
 | Repository Name                                           |
 |:----------------------------------------------------------|
+| [diffusers](https://github.com/SauravMaheshkar/diffusers) |
 | [docker-py](https://github.com/SauravMaheshkar/docker-py) |
 
 </details>
