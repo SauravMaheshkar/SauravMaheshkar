@@ -87,6 +87,7 @@
 |:----------------------------------------------------------|
 | [diffusers](https://github.com/SauravMaheshkar/diffusers) |
 | [docker-py](https://github.com/SauravMaheshkar/docker-py) |
+| [MONAI](https://github.com/SauravMaheshkar/MONAI)         |
 
 </details>
 <br>
