@@ -87,6 +87,7 @@
 |:----------------------------------------------------------|
 | [diffusers](https://github.com/SauravMaheshkar/diffusers) |
 | [docker-py](https://github.com/SauravMaheshkar/docker-py) |
+| [InvokeAI](https://github.com/SauravMaheshkar/InvokeAI)   |
 | [MONAI](https://github.com/SauravMaheshkar/MONAI)         |
 | [tensorly](https://github.com/SauravMaheshkar/tensorly)   |
 
