@@ -89,6 +89,7 @@
 | [docker-py](https://github.com/SauravMaheshkar/docker-py) |
 | [flax](https://github.com/SauravMaheshkar/flax)           |
 | [MONAI](https://github.com/SauravMaheshkar/MONAI)         |
+| [rich](https://github.com/SauravMaheshkar/rich)           |
 | [tensorly](https://github.com/SauravMaheshkar/tensorly)   |
 
 </details>
