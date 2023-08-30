@@ -86,11 +86,8 @@
 | Repository Name                                           |
 |:----------------------------------------------------------|
 | [diffusers](https://github.com/SauravMaheshkar/diffusers) |
-| [docker-py](https://github.com/SauravMaheshkar/docker-py) |
-| [flax](https://github.com/SauravMaheshkar/flax)           |
-| [MONAI](https://github.com/SauravMaheshkar/MONAI)         |
+| [peft](https://github.com/SauravMaheshkar/peft)           |
 | [rich](https://github.com/SauravMaheshkar/rich)           |
-| [tensorly](https://github.com/SauravMaheshkar/tensorly)   |
 
 </details>
 <br>
