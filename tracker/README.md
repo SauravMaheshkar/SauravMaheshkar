@@ -86,6 +86,7 @@
 | Repository Name                                           |
 |:----------------------------------------------------------|
 | [diffusers](https://github.com/SauravMaheshkar/diffusers) |
+| [lrgb](https://github.com/SauravMaheshkar/lrgb)           |
 | [peft](https://github.com/SauravMaheshkar/peft)           |
 | [rich](https://github.com/SauravMaheshkar/rich)           |
 
