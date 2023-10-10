@@ -20,7 +20,6 @@
 |:------------------------------------------------------------------------------------------|
 | [Graph-Property-Prediction](https://github.com/SauravMaheshkar/Graph-Property-Prediction) |
 | [Link-Property-Prediction](https://github.com/SauravMaheshkar/Link-Property-Prediction)   |
-| [Node-Property-Prediction](https://github.com/SauravMaheshkar/Node-Property-Prediction)   |
 | [SSL-Graphs](https://github.com/SauravMaheshkar/SSL-Graphs)                               |
 
 </details>
