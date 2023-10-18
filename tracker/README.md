@@ -19,6 +19,7 @@
 | Repository Name                                                                           |
 |:------------------------------------------------------------------------------------------|
 | [Graph-Property-Prediction](https://github.com/SauravMaheshkar/Graph-Property-Prediction) |
+| [graphs](https://github.com/SauravMaheshkar/graphs)                                       |
 | [Link-Property-Prediction](https://github.com/SauravMaheshkar/Link-Property-Prediction)   |
 | [SSL-Graphs](https://github.com/SauravMaheshkar/SSL-Graphs)                               |
 
@@ -68,6 +69,7 @@
 
 | Repository Name                                                                           |
 |:------------------------------------------------------------------------------------------|
+| [algos](https://github.com/SauravMaheshkar/algos)                                         |
 | [dotfiles](https://github.com/SauravMaheshkar/dotfiles)                                   |
 | [mancityfc](https://github.com/SauravMaheshkar/mancityfc)                                 |
 | [python-template](https://github.com/SauravMaheshkar/python-template)                     |
