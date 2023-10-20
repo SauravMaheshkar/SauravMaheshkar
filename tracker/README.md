@@ -84,11 +84,10 @@
 <summary>tracker-temp</summary>
 <br>
 
-| Repository Name                                           |
-|:----------------------------------------------------------|
-| [diffusers](https://github.com/SauravMaheshkar/diffusers) |
-| [lrgb](https://github.com/SauravMaheshkar/lrgb)           |
-| [rich](https://github.com/SauravMaheshkar/rich)           |
+| Repository Name                                 |
+|:------------------------------------------------|
+| [lrgb](https://github.com/SauravMaheshkar/lrgb) |
+| [rich](https://github.com/SauravMaheshkar/rich) |
 
 </details>
 <br>
