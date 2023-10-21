@@ -86,6 +86,7 @@
 
 | Repository Name                                 |
 |:------------------------------------------------|
+| [hdl](https://github.com/SauravMaheshkar/hdl)   |
 | [lrgb](https://github.com/SauravMaheshkar/lrgb) |
 | [rich](https://github.com/SauravMaheshkar/rich) |
 
