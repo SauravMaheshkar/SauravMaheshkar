@@ -73,6 +73,7 @@
 | [dotfiles](https://github.com/SauravMaheshkar/dotfiles)                                   |
 | [mancityfc](https://github.com/SauravMaheshkar/mancityfc)                                 |
 | [python-template](https://github.com/SauravMaheshkar/python-template)                     |
+| [sat-rs](https://github.com/SauravMaheshkar/sat-rs)                                       |
 | [SauravMaheshkar](https://github.com/SauravMaheshkar/SauravMaheshkar)                     |
 | [sauravmaheshkar.github.io](https://github.com/SauravMaheshkar/sauravmaheshkar.github.io) |
 
