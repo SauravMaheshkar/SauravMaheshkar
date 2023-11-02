@@ -85,13 +85,11 @@
 <summary>tracker-temp</summary>
 <br>
 
-| Repository Name                                               |
-|:--------------------------------------------------------------|
-| [hdl](https://github.com/SauravMaheshkar/hdl)                 |
-| [lrgb](https://github.com/SauravMaheshkar/lrgb)               |
-| [rich](https://github.com/SauravMaheshkar/rich)               |
-| [ruff-lsp](https://github.com/SauravMaheshkar/ruff-lsp)       |
-| [ruff-vscode](https://github.com/SauravMaheshkar/ruff-vscode) |
+| Repository Name                                                         |
+|:------------------------------------------------------------------------|
+| [lrgb](https://github.com/SauravMaheshkar/lrgb)                         |
+| [rich](https://github.com/SauravMaheshkar/rich)                         |
+| [verilog-template](https://github.com/SauravMaheshkar/verilog-template) |
 
 </details>
 <br>
