@@ -76,6 +76,7 @@
 | [sat-rs](https://github.com/SauravMaheshkar/sat-rs)                                       |
 | [SauravMaheshkar](https://github.com/SauravMaheshkar/SauravMaheshkar)                     |
 | [sauravmaheshkar.github.io](https://github.com/SauravMaheshkar/sauravmaheshkar.github.io) |
+| [verilog-template](https://github.com/SauravMaheshkar/verilog-template)                   |
 
 </details>
 <br>
@@ -85,11 +86,9 @@
 <summary>tracker-temp</summary>
 <br>
 
-| Repository Name                                                         |
-|:------------------------------------------------------------------------|
-| [lrgb](https://github.com/SauravMaheshkar/lrgb)                         |
-| [rich](https://github.com/SauravMaheshkar/rich)                         |
-| [verilog-template](https://github.com/SauravMaheshkar/verilog-template) |
+| Repository Name                                 |
+|:------------------------------------------------|
+| [lrgb](https://github.com/SauravMaheshkar/lrgb) |
 
 </details>
 <br>
