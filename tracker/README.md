@@ -71,7 +71,6 @@
 |:------------------------------------------------------------------------------------------|
 | [algos](https://github.com/SauravMaheshkar/algos)                                         |
 | [dotfiles](https://github.com/SauravMaheshkar/dotfiles)                                   |
-| [mancityfc](https://github.com/SauravMaheshkar/mancityfc)                                 |
 | [python-template](https://github.com/SauravMaheshkar/python-template)                     |
 | [sat-rs](https://github.com/SauravMaheshkar/sat-rs)                                       |
 | [SauravMaheshkar](https://github.com/SauravMaheshkar/SauravMaheshkar)                     |
