@@ -85,9 +85,8 @@
 <summary>tracker-temp</summary>
 <br>
 
-| Repository Name                                 |
-|:------------------------------------------------|
-| [lrgb](https://github.com/SauravMaheshkar/lrgb) |
+| Repository Name   |
+|-------------------|
 
 </details>
 <br>
