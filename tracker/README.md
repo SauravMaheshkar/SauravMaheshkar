@@ -16,13 +16,11 @@
 <summary>tracker-geometric-learning</summary>
 <br>
 
-| Repository Name                                                                           |
-|:------------------------------------------------------------------------------------------|
-| [Graph-Property-Prediction](https://github.com/SauravMaheshkar/Graph-Property-Prediction) |
-| [graphs](https://github.com/SauravMaheshkar/graphs)                                       |
-| [hivegraph](https://github.com/SauravMaheshkar/hivegraph)                                 |
-| [Link-Property-Prediction](https://github.com/SauravMaheshkar/Link-Property-Prediction)   |
-| [SSL-Graphs](https://github.com/SauravMaheshkar/SSL-Graphs)                               |
+| Repository Name                                             |
+|:------------------------------------------------------------|
+| [graphs](https://github.com/SauravMaheshkar/graphs)         |
+| [hivegraph](https://github.com/SauravMaheshkar/hivegraph)   |
+| [SSL-Graphs](https://github.com/SauravMaheshkar/SSL-Graphs) |
 
 </details>
 <br>
