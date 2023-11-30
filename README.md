@@ -31,6 +31,7 @@ Feel free to reach out via email at: `sauravvmaheshkar <at> gmail.com`
 
 | **Blogpost/Title** | **Link** |
 |:--------------:|:----:|
+|  [QLoRA: Efficient Finetuning of Quantized LLMs](https://wandb.ai/sauravmaheshkar/QLoRA/reports/A-Brief-Introduction-to-QLoRA--Vmlldzo2MTI2OTc5) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/SauravMaheshkar/4134e86f0d637d03699f098a8ea3d7e8/qlora.ipynb) |
 |  [Intrinsic Dimensions: The secret behind LoRA](https://wandb.ai/sauravmaheshkar/Intrinsic-Dimensions/reports/Intrinsic-Dimensions-The-secret-behind-LoRA--Vmlldzo2MDcxMDc5) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/SauravMaheshkar/13df8ec20dff55865dc4afe230d071db/intrinsic-dimension.ipynb) |
 |  Python Fundamentals |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/SauravMaheshkar/57b6883f684ba336a8cac15a46561f6d/python-fundamentals.ipynb) |
 |  [A Brief Introduction to Mixture Model Networks](https://wandb.ai/graph-neural-networks/MoNet/reports/A-Brief-Introduction-to-Mixture-Model-Networks--Vmlldzo1MzE4OTQ3) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/SauravMaheshkar/3876e9b98d4effecc8e15c43369027ce/mixture-model-networks-monet.ipynb) |
