@@ -70,6 +70,7 @@
 |:------------------------------------------------------------------------------------------|
 | [algos](https://github.com/SauravMaheshkar/algos)                                         |
 | [dotfiles](https://github.com/SauravMaheshkar/dotfiles)                                   |
+| [jangal-rs](https://github.com/SauravMaheshkar/jangal-rs)                                 |
 | [python-template](https://github.com/SauravMaheshkar/python-template)                     |
 | [sat-rs](https://github.com/SauravMaheshkar/sat-rs)                                       |
 | [SauravMaheshkar](https://github.com/SauravMaheshkar/SauravMaheshkar)                     |
