@@ -85,8 +85,10 @@
 <summary>tracker-temp</summary>
 <br>
 
-| Repository Name   |
-|-------------------|
+| Repository Name                                         |
+|:--------------------------------------------------------|
+| [e3nn-jax](https://github.com/SauravMaheshkar/e3nn-jax) |
+| [jax-md](https://github.com/SauravMaheshkar/jax-md)     |
 
 </details>
 <br>
