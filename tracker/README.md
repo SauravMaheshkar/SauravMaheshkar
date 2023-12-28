@@ -6,7 +6,6 @@
 | Repository Name                                                                         |
 |:----------------------------------------------------------------------------------------|
 | [Self-Supervised-Learning](https://github.com/SauravMaheshkar/Self-Supervised-Learning) |
-| [SSL-Graphs](https://github.com/SauravMaheshkar/SSL-Graphs)                             |
 
 </details>
 <br>
@@ -16,11 +15,10 @@
 <summary>tracker-geometric-learning</summary>
 <br>
 
-| Repository Name                                             |
-|:------------------------------------------------------------|
-| [graphs](https://github.com/SauravMaheshkar/graphs)         |
-| [hivegraph](https://github.com/SauravMaheshkar/hivegraph)   |
-| [SSL-Graphs](https://github.com/SauravMaheshkar/SSL-Graphs) |
+| Repository Name                                           |
+|:----------------------------------------------------------|
+| [graphs](https://github.com/SauravMaheshkar/graphs)       |
+| [hivegraph](https://github.com/SauravMaheshkar/hivegraph) |
 
 </details>
 <br>
