@@ -49,18 +49,6 @@
 <br>
 
 <details>
-<summary>tracker-bioinformatics</summary>
-<br>
-
-| Repository Name                                                                         |
-|:----------------------------------------------------------------------------------------|
-| [Radiology-Classification](https://github.com/SauravMaheshkar/Radiology-Classification) |
-
-</details>
-<br>
-<br>
-
-<details>
 <summary>tracker-misc</summary>
 <br>
 
