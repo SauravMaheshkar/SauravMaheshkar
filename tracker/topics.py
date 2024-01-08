@@ -7,7 +7,6 @@ ALL_TOPICS: List[str] = [
     "tracker-geometric-learning",
     "tracker-knowledge-distillation",
     "tracker-implicit-representations",
-    "tracker-bioinformatics",
     "tracker-misc",
     "tracker-temp",
 ]
