@@ -73,7 +73,6 @@
 
 | Repository Name                                         |
 |:--------------------------------------------------------|
-| [e3nn](https://github.com/SauravMaheshkar/e3nn)         |
 | [jax-md](https://github.com/SauravMaheshkar/jax-md)     |
 | [pymanopt](https://github.com/SauravMaheshkar/pymanopt) |
 
