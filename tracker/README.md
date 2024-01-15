@@ -17,32 +17,7 @@
 
 | Repository Name                                           |
 |:----------------------------------------------------------|
-| [graphs](https://github.com/SauravMaheshkar/graphs)       |
 | [hivegraph](https://github.com/SauravMaheshkar/hivegraph) |
-
-</details>
-<br>
-<br>
-
-<details>
-<summary>tracker-knowledge-distillation</summary>
-<br>
-
-| Repository Name                                                                     |
-|:------------------------------------------------------------------------------------|
-| [Knowledge-Distillation](https://github.com/SauravMaheshkar/Knowledge-Distillation) |
-
-</details>
-<br>
-<br>
-
-<details>
-<summary>tracker-implicit-representations</summary>
-<br>
-
-| Repository Name                                 |
-|:------------------------------------------------|
-| [NeRF](https://github.com/SauravMaheshkar/NeRF) |
 
 </details>
 <br>
