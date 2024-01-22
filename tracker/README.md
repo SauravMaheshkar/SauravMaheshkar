@@ -49,7 +49,6 @@
 | Repository Name                                                           |
 |:--------------------------------------------------------------------------|
 | [jax-md](https://github.com/SauravMaheshkar/jax-md)                       |
-| [optax](https://github.com/SauravMaheshkar/optax)                         |
 | [pymanopt](https://github.com/SauravMaheshkar/pymanopt)                   |
 | [pytorch_geometric](https://github.com/SauravMaheshkar/pytorch_geometric) |
 | [safe](https://github.com/SauravMaheshkar/safe)                           |
