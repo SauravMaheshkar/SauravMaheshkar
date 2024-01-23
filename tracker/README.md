@@ -46,13 +46,12 @@
 <summary>tracker-temp</summary>
 <br>
 
-| Repository Name                                                           |
-|:--------------------------------------------------------------------------|
-| [jax-md](https://github.com/SauravMaheshkar/jax-md)                       |
-| [pymanopt](https://github.com/SauravMaheshkar/pymanopt)                   |
-| [pytorch_geometric](https://github.com/SauravMaheshkar/pytorch_geometric) |
-| [safe](https://github.com/SauravMaheshkar/safe)                           |
-| [torchmd](https://github.com/SauravMaheshkar/torchmd)                     |
+| Repository Name                                         |
+|:--------------------------------------------------------|
+| [jax-md](https://github.com/SauravMaheshkar/jax-md)     |
+| [pymanopt](https://github.com/SauravMaheshkar/pymanopt) |
+| [safe](https://github.com/SauravMaheshkar/safe)         |
+| [torchmd](https://github.com/SauravMaheshkar/torchmd)   |
 
 </details>
 <br>
