@@ -51,7 +51,6 @@
 | [jax-md](https://github.com/SauravMaheshkar/jax-md)     |
 | [optax](https://github.com/SauravMaheshkar/optax)       |
 | [pymanopt](https://github.com/SauravMaheshkar/pymanopt) |
-| [safe](https://github.com/SauravMaheshkar/safe)         |
 | [torchmd](https://github.com/SauravMaheshkar/torchmd)   |
 
 </details>
