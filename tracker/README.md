@@ -49,9 +49,7 @@
 | Repository Name                                         |
 |:--------------------------------------------------------|
 | [jax-md](https://github.com/SauravMaheshkar/jax-md)     |
-| [optax](https://github.com/SauravMaheshkar/optax)       |
 | [pymanopt](https://github.com/SauravMaheshkar/pymanopt) |
-| [torchmd](https://github.com/SauravMaheshkar/torchmd)   |
 
 </details>
 <br>
