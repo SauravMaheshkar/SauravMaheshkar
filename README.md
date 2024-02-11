@@ -2,7 +2,7 @@ Hi there, My name is [Saurav](https://sauravmaheshkar.github.io/)
 
 I am a Computer Science student at the University of Manchester and interested in Geometric Learning and Self Supervised Learning. Currently, I am working on:
 
-* [Benchmarking Self Supervised Learning Methods](https://github.com/SauravMaheshkar/Self-Supervised-Learning)
+* [Benchmarking Self Supervised Learning Methods](https://github.com/SauravMaheshkar/sslgym)
 * [Self Supervised Learning Methods for Graphs](https://github.com/SauravMaheshkar/hivegraph)
 
 Feel free to reach out via email at: `sauravvmaheshkar <at> gmail.com`
