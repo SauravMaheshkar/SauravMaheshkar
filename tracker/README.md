@@ -3,9 +3,9 @@
 <summary>tracker-self-supervised-learning</summary>
 <br>
 
-| Repository Name                                                                         |
-|:----------------------------------------------------------------------------------------|
-| [Self-Supervised-Learning](https://github.com/SauravMaheshkar/Self-Supervised-Learning) |
+| Repository Name                                     |
+|:----------------------------------------------------|
+| [sslgym](https://github.com/SauravMaheshkar/sslgym) |
 
 </details>
 <br>
