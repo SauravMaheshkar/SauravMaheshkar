@@ -48,7 +48,6 @@
 
 | Repository Name                                         |
 |:--------------------------------------------------------|
-| [jax-md](https://github.com/SauravMaheshkar/jax-md)     |
 | [pymanopt](https://github.com/SauravMaheshkar/pymanopt) |
 
 </details>
