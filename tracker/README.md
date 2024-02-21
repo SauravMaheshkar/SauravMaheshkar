@@ -29,9 +29,9 @@
 
 | Repository Name                                                                           |
 |:------------------------------------------------------------------------------------------|
-| [algos](https://github.com/SauravMaheshkar/algos)                                         |
 | [dotfiles](https://github.com/SauravMaheshkar/dotfiles)                                   |
 | [jangal-rs](https://github.com/SauravMaheshkar/jangal-rs)                                 |
+| [playground](https://github.com/SauravMaheshkar/playground)                               |
 | [python-template](https://github.com/SauravMaheshkar/python-template)                     |
 | [sat-rs](https://github.com/SauravMaheshkar/sat-rs)                                       |
 | [SauravMaheshkar](https://github.com/SauravMaheshkar/SauravMaheshkar)                     |
