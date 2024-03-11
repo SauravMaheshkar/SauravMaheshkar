@@ -36,6 +36,7 @@
 | [sat-rs](https://github.com/SauravMaheshkar/sat-rs)                                       |
 | [SauravMaheshkar](https://github.com/SauravMaheshkar/SauravMaheshkar)                     |
 | [sauravmaheshkar.github.io](https://github.com/SauravMaheshkar/sauravmaheshkar.github.io) |
+| [softprompts](https://github.com/SauravMaheshkar/softprompts)                             |
 | [verilog-template](https://github.com/SauravMaheshkar/verilog-template)                   |
 
 </details>
