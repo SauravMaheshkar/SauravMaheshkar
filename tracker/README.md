@@ -15,9 +15,10 @@
 <summary>tracker-geometric-learning</summary>
 <br>
 
-| Repository Name                                           |
-|:----------------------------------------------------------|
-| [hivegraph](https://github.com/SauravMaheshkar/hivegraph) |
+| Repository Name                                                             |
+|:----------------------------------------------------------------------------|
+| [hivegraph](https://github.com/SauravMaheshkar/hivegraph)                   |
+| [HyperGraphLearning](https://github.com/SauravMaheshkar/HyperGraphLearning) |
 
 </details>
 <br>
