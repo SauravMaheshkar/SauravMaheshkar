@@ -48,9 +48,10 @@
 <summary>tracker-temp</summary>
 <br>
 
-| Repository Name                                         |
-|:--------------------------------------------------------|
-| [pymanopt](https://github.com/SauravMaheshkar/pymanopt) |
+| Repository Name                                                           |
+|:--------------------------------------------------------------------------|
+| [pymanopt](https://github.com/SauravMaheshkar/pymanopt)                   |
+| [pytorch_geometric](https://github.com/SauravMaheshkar/pytorch_geometric) |
 
 </details>
 <br>
