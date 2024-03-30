@@ -51,7 +51,6 @@
 | Repository Name                                                           |
 |:--------------------------------------------------------------------------|
 | [fprime](https://github.com/SauravMaheshkar/fprime)                       |
-| [fprime-gds](https://github.com/SauravMaheshkar/fprime-gds)               |
 | [pymanopt](https://github.com/SauravMaheshkar/pymanopt)                   |
 | [pytorch_geometric](https://github.com/SauravMaheshkar/pytorch_geometric) |
 
