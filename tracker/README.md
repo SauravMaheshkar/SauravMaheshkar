@@ -18,6 +18,7 @@
 | Repository Name                                                             |
 |:----------------------------------------------------------------------------|
 | [hivegraph](https://github.com/SauravMaheshkar/hivegraph)                   |
+| [hypergraph.pl](https://github.com/SauravMaheshkar/hypergraph.pl)           |
 | [HyperGraphLearning](https://github.com/SauravMaheshkar/HyperGraphLearning) |
 
 </details>
