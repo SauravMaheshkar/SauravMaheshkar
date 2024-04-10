@@ -51,6 +51,7 @@
 
 | Repository Name                                                           |
 |:--------------------------------------------------------------------------|
+| [dm_pix](https://github.com/SauravMaheshkar/dm_pix)                       |
 | [fprime](https://github.com/SauravMaheshkar/fprime)                       |
 | [pytorch_geometric](https://github.com/SauravMaheshkar/pytorch_geometric) |
 
