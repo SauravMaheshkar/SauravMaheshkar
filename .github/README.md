@@ -1,11 +1,29 @@
-Hi there, My name is [Saurav](https://sauravmaheshkar.github.io/)
+## Hello, I'm [Saurav](https://sauravmaheshkar.github.io/) 👋
 
-I am a Computer Science student at the University of Manchester and interested in Geometric Learning and Self Supervised Learning. Currently, I am working on:
+* 🐝 I am a Computer Science student at the University of Manchester.
+* 👨‍🎓 I am interested in Geometric Learning and Self Supervised Learning.
+* 📣 I am a Google Developer Expert in Machine Learning [@ml-gde](https://github.com/ml-gde).
+* 👬 I'd love to collaborate on Open Source Implementations of Self Supervised Learning or GNN projects.
+* 📟 Feel free to reach out via email at: `sauravvmaheshkar <at> gmail.com` or on [Twitter](https://twitter.com/MaheshkarSaurav).
 
-* [Benchmarking Self Supervised Learning Methods](https://github.com/SauravMaheshkar/sslgym)
-* [Self Supervised Learning Methods for Graphs](https://github.com/SauravMaheshkar/hivegraph)
 
-Feel free to reach out via email at: `sauravvmaheshkar <at> gmail.com`
+Some projects that I like to highlight:
+
+* [`SauravMaheshkar/sslgym`](https://github.com/SauravMaheshkar/sslgym): Benchmarking Self Supervised Learning Methods and model gym. I'm actively seeking contributors to train and release pre-trained weights for various methods. [List of available issues](https://github.com/SauravMaheshkar/sslgym/labels/help%20wanted%20%3Apray%3A).
+* [`SauravMaheshkar/hivegraph`](https://github.com/SauravMaheshkar/hivegraph): Python Framework built on PyTorch and PyTorch Geometric for working with Representation Learning on Graph Neural Networks.
+* [`SauravMaheshkar/HyperGraphLearning`](https://github.com/SauravMaheshkar/HyperGraphLearning): Comprehensive Study of Hyper Graph Representation Learning.
+* [`SauravMaheshkar/softprompts`](https://github.com/SauravMaheshkar/softprompts): Comprehensive Study of Soft Prompting as a efficient method for Model Adaptation.
+
+I also love to work on developer tooling and computer science fundamentals. 
+
+* [`SauravMaheshkar/python-template`](https://github.com/SauravMaheshkar/python-template): General Purpose Repository Template for Python Projects 🐍, bootstrapped with [pre-commit hooks](https://pre-commit.com/), [just](https://github.com/casey/just), [uv](https://github.com/astral-sh/uv) for python deps management and optimised GA workflows for python development.
+* [`SauravMaheshkar/verilog-template`](https://github.com/SauravMaheshkar/verilog-template): A Template for Verilog Projects (using `iverilog` and `gtkwave`) with test infrastructure. (support for ❄️ nix devShell coming soon !).
+* [`SauravMaheshkar/dotfiles`](https://github.com/SauravMaheshkar/dotfiles): My ❄️ Nix-darwin dotfiles.
+* [`SauravMaheshkar/sat-rs`](https://github.com/SauravMaheshkar/sat-rs): A SAT solver written in Rust 🦀.
+* [`SauravMaheshkar/jangal-rs`](https://github.com/SauravMaheshkar/jangal-rs): Efficient Tree Data Structures in Rust 🦀.
+* [`SauravMaheshkar/hypergraph.pl`](https://github.com/SauravMaheshkar/hypergraph.pl): Hypergraph structure implementation in Prolog 🧑‍💻.
+* [`SauravMaheshkar/pico.rs`](https://github.com/SauravMaheshkar/pico.rs): OS Fundamentals on Raspberry Pi Pico (RP2040) using Embedded Rust 🦀.
+* [`SauravMaheshkar/playground`](https://github.com/SauravMaheshkar/playground): Multi-language Leetcode infrastructure.
 
 <details>
 <summary>Github Statistics</summary>
