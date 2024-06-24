@@ -18,7 +18,7 @@ Some projects that I like to highlight:
 I also love to work on developer tooling and computer science fundamentals. 
 
 * [`SauravMaheshkar/python-template`](https://github.com/SauravMaheshkar/python-template): General Purpose Repository Template for Python Projects 🐍, bootstrapped with [pre-commit hooks](https://pre-commit.com/), [just](https://github.com/casey/just), [uv](https://github.com/astral-sh/uv) for python deps management and optimised GA workflows for python development.
-* [`SauravMaheshkar/verilog-template`](https://github.com/SauravMaheshkar/verilog-template): A Template for Verilog Projects (using `iverilog` and `gtkwave`) with test infrastructure. (support for ❄️ nix devShell coming soon !).
+* [`SauravMaheshkar/verilog-template`](https://github.com/SauravMaheshkar/verilog-template): A Template for Verilog Projects (using `iverilog` and `gtkwave`) with test infrastructure (nix devShell ❄️ supported).
 * [`SauravMaheshkar/dotfiles`](https://github.com/SauravMaheshkar/dotfiles): My ❄️ Nix-darwin dotfiles.
 * [`SauravMaheshkar/sat-rs`](https://github.com/SauravMaheshkar/sat-rs): A SAT solver written in Rust 🦀.
 * [`SauravMaheshkar/jangal-rs`](https://github.com/SauravMaheshkar/jangal-rs): Efficient Tree Data Structures in Rust 🦀.
