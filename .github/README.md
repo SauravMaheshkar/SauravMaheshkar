@@ -13,7 +13,6 @@ Some projects that I like to highlight:
 * [`SauravMaheshkar/sslgym`](https://github.com/SauravMaheshkar/sslgym): Benchmarking Self Supervised Learning Methods and model gym. I'm actively seeking contributors to train and release pre-trained weights for various methods. [List of available issues](https://github.com/SauravMaheshkar/sslgym/labels/help%20wanted%20%3Apray%3A).
 * [`SauravMaheshkar/hivegraph`](https://github.com/SauravMaheshkar/hivegraph): Python Framework built on PyTorch and PyTorch Geometric for working with Representation Learning on Graph Neural Networks.
 * [`SauravMaheshkar/HyperGraphLearning`](https://github.com/SauravMaheshkar/HyperGraphLearning): Comprehensive Study of Hyper Graph Representation Learning.
-* [`SauravMaheshkar/softprompts`](https://github.com/SauravMaheshkar/softprompts): Comprehensive Study of Soft Prompting as a efficient method for Model Adaptation.
 
 I also love to work on developer tooling and computer science fundamentals. 
 
