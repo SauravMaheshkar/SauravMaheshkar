@@ -22,7 +22,6 @@ I also love to work on developer tooling and computer science fundamentals.
 * [`SauravMaheshkar/sat-rs`](https://github.com/SauravMaheshkar/sat-rs): A SAT solver written in Rust 🦀.
 * [`SauravMaheshkar/jangal-rs`](https://github.com/SauravMaheshkar/jangal-rs): Efficient Tree Data Structures in Rust 🦀.
 * [`SauravMaheshkar/hypergraph.pl`](https://github.com/SauravMaheshkar/hypergraph.pl): Hypergraph structure implementation in Prolog 🧑‍💻.
-* [`SauravMaheshkar/pico.rs`](https://github.com/SauravMaheshkar/pico.rs): OS Fundamentals on Raspberry Pi Pico (RP2040) using Embedded Rust 🦀.
 * [`SauravMaheshkar/playground`](https://github.com/SauravMaheshkar/playground): Multi-language Leetcode infrastructure.
 
 <details>
