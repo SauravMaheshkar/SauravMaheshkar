@@ -18,7 +18,7 @@
 <br>
 
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SauravMaheshkar&theme=transparent&hide=jupyter%20notebook&layout=compact' alt='Top Languages' align='center' />
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SauravMaheshkar&theme=transparent&hide=jupyter%20notebook&layout=compact&exclude_repo=docs' alt='Top Languages' align='center' />
 </div>
 
 </details>
